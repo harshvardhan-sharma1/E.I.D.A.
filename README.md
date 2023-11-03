@@ -2,7 +2,7 @@
 
 ### Requirements to run
 #### Basic requirements:
-[Python](https://www.python.org/downloads/)(version 3 or later), [OpenAI account](https://platform.openai.com/signup?launch), [Azure subscription](https://azure.microsoft.com/free/cognitive-services), code from this [repository](https://github.com/gen-cy/biohack2023.git)
+[Python](https://www.python.org/downloads/)(version 3 or later), [OpenAI account](https://platform.openai.com/signup?launch), [Azure subscription](https://azure.microsoft.com/free/cognitive-services), code from this [repository](https://github.com/harshvardhan-sharma1/E.I.D.A.)
 #### Initial installation/requirements:
 1. Run this command to install the [Speech SDK](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-sdk)
 ```
